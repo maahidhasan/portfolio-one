@@ -46,3 +46,13 @@ section {
 .half-width {
     width: 50%;
 }
+
+.dreambig {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.left-padding-none {
+    padding-left: 0px !important;
+}
