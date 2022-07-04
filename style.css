@@ -17,7 +17,7 @@ section {
     padding-left: 8%;
 }
 
-.right-width {
+.right-element {
     width: 50%;
     padding-left: 8%;
 }
@@ -28,8 +28,8 @@ section {
 
 .hire-btn {
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
-    color: #1c1c1c;
+    background-image: linear-gradient(#FFB825, #FA6F5B);
+    color: white;
     padding: 10px 40px;
     border-radius: 5px;
 
@@ -39,4 +39,10 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 
+}
+
+
+
+.half-width {
+    width: 50%;
 }
